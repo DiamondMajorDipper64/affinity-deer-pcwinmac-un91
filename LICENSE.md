@@ -1,4 +1,4 @@
-# 
+# Open Source Affinity Designer outils pour Mac OS | Turbo Affinity Designer outils pour PC Windows. Avec moteur de pinceaux et tampon de duplication — optimisé pour des performances maximales sur chaque plateforme.
 
 
 
